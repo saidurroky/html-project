@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>creative</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+			<div class="fix header_area">
+				<div class="fix stracture header">
+					<h1>creative</h1>
+					<div class="fix menu">
+						<ul>
+							<li><a style="color:#F26C4F" href="">Home</a></li>
+							<li><a href="">About</a></li>
+							<li><a href="">Portfolio</a></li>
+							<li><a href="">Plans & Pricing</a></li>
+							<li><a href="">Blog</a></li>
+							<li><a href="">Contact</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="fix slider">
+				<a href=""><img src="images/slider.png" /></a>
+			</div>
+			<div class="fix maincontent_area">
+				<div class="fix stracture maincontent">
+					<div class="fix about">
+						<h1>About <span class="Company">Company</span></h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					</div>
+					<div class="fix color_bg">
+						<h2>Creative is a simple and beautiful website template for freelancers  and business owners to showcase their services.</h2>
+					</div>
+					<div class="fix promo_area">
+						<div class="fix promo">
+							<a href=""><img src="images/pic1.png" /></a>
+							<a href=""><img src="images/pic2.png" /></a>
+							<a href=""><img src="images/pic4.png" /></a>
+							<a href=""><img src="images/pic5.png" /></a>
+						</div>
+						<div class="fix promo_one">
+							<h2>Mobile Development</h2>
+							<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet iam.</p>
+						</div>
+						<div class="fix promo_two">
+							<h2>WordPress Services</h2>
+							<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet iam.</p>
+						</div>
+						<div class="fix promo_three">
+							<h2>Link Building</h2>
+							<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet iam.</p>
+						</div>
+						<div class="fix promo_four">
+							<h2>Branding and UI</h2>
+							<p>Lorem ipsum dolor sit amet, consectetu adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet iam.</p>
+						</div>
+					</div>
+					<div class="fix promo_bottom">
+						<div class="fix blog">
+							<h1>FROM OUR <span class="Company">BLOG</span></h1>
+							<div class="fix post_one">
+								<h2>Post Number One</h2>
+								<p>Nunc perspicite omnium rerum infinitam atque intolerandam licentiam. Pecunia coacta est ad agros emendos; ei porro ab invitis non ementur.</p>
+							</div>
+							<div class="fix post_one">
+								<h2>Post Number One</h2>
+								<p>Nunc perspicite omnium rerum infinitam atque intolerandam licentiam. Pecunia coacta est ad agros emendos; ei porro ab invitis non ementur.</p>
+							</div>
+						</div>
+						<div class="fix client">
+							<h1>From <span class="Company">Clients</span></h1>
+							<div class="fix client_one">
+								<a href=""><img src="images/bubble.png" /></a>
+							</div>
+						</div>
+					</div>
+					<div class="fix about_us">
+						<div class="fix who_are_we">
+							<h1>Who Are <span class="Company">WE</span></h1>
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+							<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur</p>
+						</div>	
+						<div class="fix what_we_do">
+							<h1>What <span class="Company">We Do</span></h1>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						</div>
+					</div>
+					<div class="update_area">
+						<div class="fix update">
+							<div class="fix subscribe">
+								<h1>SUBSCRIBE</h1>
+								<h2>for updates, promotions & special offers</h2>
+							</div>
+							<div class="fix email">
+								<p><input placeholder="Your email please!" type="text" />	<input type="submit" value="Send" /></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="fix footer_top_area">
+				<div class="fix stracture footer_top">
+					<div class="fix footer_top_left">
+						<h1>LATEST TWEETS</h1>
+						<p>Tantum possumus, quantum scimus.<br />23 minutes ago</p>
+						<p>Lorem ipsum dolor site amet — <br /><span class="Company">http://bit.ly/uEQVRb</span><br />15 hours ago</p>
+					</div>
+					<div class="fix footer_top_middle">
+						<div class="fix search">
+							<h1>SEARCH THIS SITE</h1>
+							<p><input type="text" />	<input type="submit" value="GO" /></p>
+						</div>
+						<div class="fix social">
+							<h1>SOCIAL</h1>
+							<div class="fix social_bookmark">
+							<a href=""><img src="images/twitter.png" /></a>
+							<a href=""><img src="images/facebook.png" /></a>
+							<a href=""><img src="images/dribble3.png" /></a>
+							</div>
+						</div>
+					</div>
+					<div class="fix footer_top_right">
+						<div class="fix contract">
+							<h1>CONTRACT</h1>
+							<p>Lorem ipsum dolor site amet. Please find our contact address below, we are open 24x7, call us anytime. </p>
+						</div>
+						<div class="fix address">
+							<p>Address:	154-NewHouse, 3rd Floor NY, USA.</p>
+							<p>Phone:	727-455-7337</p>
+							<p>Email:	info@primum.com</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="fix footer_area">
+				<div class="fix stracture footer">
+					<div class="fix footer_menu">
+							<ul>
+								<li><a href="">Home</a></li>
+								<li><a href="">About</a></li>
+								<li><a href="">Portfolio</a></li>
+								<li><a href="">Plans & Pricing</a></li>
+								<li><a href="">Blog</a></li>
+								<li><a href="">Contact</a></li>
+							</ul>
+					</div>
+					<p>&copy; eGrappler.com. Some Rights Reserved.</p>
+				</div>
+			</div>
+	</body>
+</html>
